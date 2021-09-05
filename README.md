@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 I'm Carlos
 
 <!--
 **carlosgnet/carlosgnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/carlosgnet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter link" height="30" width="40" /></a>
-</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosgnet)](https://git.io/streak-stats)
 
@@ -58,3 +53,8 @@ Here are some ideas to get you started:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/carlosgnet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter link" height="30" width="40" /></a>
+</p>
