@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://bio.link/carlosgio" target="_blank"><img align="center" src="biolink.png" alt="Bio link"/></a>
+<a href="https://bio.link/carlosgio" target="_blank"><img align="center" src="biolink.png" alt="Bio link" height="60" width="60" /></a>
 </p>
